@@ -1,0 +1,3 @@
+# Tandre_Z
+### Rookie's road to a better rookie!
+Other "README" are thinking...
