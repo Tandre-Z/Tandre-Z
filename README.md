@@ -1,5 +1,8 @@
 # 👋 Tandre_Z
 
+[![GitHub followers](https://img.shields.io/github/followers/Tandre-Z?style=social)](https://github.com/Tandre-Z)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Tandre_Z?style=social)](https://twitter.com/Tandre_Z)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -42,14 +45,21 @@
 - [ ] 完善个人网站 | Improve my personal website
 - [ ] 学习新技术 | Learn New Tech
 
+## 📊 GitHub 统计 | GitHub Stats
+
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tandre-Z&theme=radical)
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tandre-Z&theme=radical)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tandre-Z&theme=radical)
 
-[![GitHub followers](https://img.shields.io/github/followers/Tandre-Z?style=social)](https://github.com/Tandre-Z)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Tandre_Z?style=social)](https://twitter.com/Tandre_Z)
+## 📫 联系我 | Contact Me
 
 [![Email](https://img.shields.io/badge/📧_Contact-red?logo=gmail)](mailto:github@tandre.ip-ddns.com)
 [![Website](https://img.shields.io/badge/🌐_Portfolio-green?logo=google-chrome)](https://tandre.cn)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-blue?logo=twitter)](https://twitter.com/Tandre_Z)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-black?logo=github)](https://github.com/Tandre-Z)
+[![Telegram](https://img.shields.io/badge/💬_Telegram-blue?logo=telegram)](https://t.me/TandreZ)
+[![CSDN](https://img.shields.io/badge/💬_CSDN-blue?logo=csdn)](https://blog.csdn.net/weixin_46050495?spm=1010.2135.3001.5343)
+
+<img src="https://raw.githubusercontent.com/Tandre-Z/tandre-z.github.io/refs/heads/main/public/img/tandrewechat.jpg" alt="WeChat QR Code" width="140" height="140">
 
 ⭐️ From [Tandre-Z](https://github.com/Tandre-Z)
