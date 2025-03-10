@@ -1,13 +1,7 @@
-<div align="center">
-
 # 👋 Tandre_Z
 
 [![GitHub followers](https://img.shields.io/github/followers/Tandre-Z?style=social)](https://github.com/Tandre-Z)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Tandre_Z?style=social)](https://twitter.com/Tandre_Z)
-
-</div>
-
-<div align="center">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
@@ -21,56 +15,37 @@
 [![Email](https://img.shields.io/badge/📧_Contact-red?logo=gmail)](mailto:github@tandre.ip-ddns.com)
 [![Website](https://img.shields.io/badge/🌐_Portfolio-green?logo=google-chrome)](https://tandre.cn)
 
-</div>
+## 🎮 开发者 | Game Developer
 
-### 🎮 开发者 | Game Developer
+- 参与GameJam作品(Entry to GameJam)
+  
+  《[掩盖繁星的太阳：ReIgnition](https://tandrez.notion.site/ReIgnition-98d2812d5bfe47a0a2cf5e9c54caa98a)》
+  《[出门（Leave Home）](https://tandrez.notion.site/Leave-Home-1a0085e32df94ef19a331126fee2d4e2)》
+  《[迷失之旅（Lost Dream）](https://tandrez.notion.site/Lost-Dream-483638ab7dc74b56ba8f9bc7987740f5)》
+  《[No Cat Can GO Wrong](https://tandrez.notion.site/No-Cat-Can-GO-Wrong-1a5dbd6ed8ac80cca32dc5678de9796b)》  
+  
+- 个人实验作品(Personal experimental work)
+  《[《蛋》（Egg）](https://tandrez.notion.site/Egg-0d3b0b51c98c4def83f949efc63b2371)》
 
-**中文**  
-游戏开发爱好者，参与作品：  
-《掩盖繁星的太阳》《出门》《迷失之旅》《No cat can go wrong》  
-个人实验作品《蛋》，在研项目《定格之地》  
+- 在研项目(indie game developing)——《定格之地》
+  
+## 🛠 项目 | Projects
 
-**English**  
-Game dev enthusiast. Projects:  
-"The Sun That Obscures The Stars", "Going Out", "Lost Journey",  
-Experimental work "Egg", WIP "Frozen Land"
+| 项目(Projects) | 🇨🇳 描述 | 🇺🇸 Discribe |
+|------|------|------|
+| [tandre-z.github.io](https://github.com/Tandre-Z/tandre-z.github.io) | 个人网站 | Personal Website |
+| [JsonServer](https://github.com/Tandre-Z/JsonServer) | 使用FastApi和python构建的简单的JSON数据存储和查询服务器 | A simple server for JSON storage and queries built with FastAPI and Python |
+| [BlogSampleCode](https://github.com/Tandre-Z/BlogSampleCode) | 博客代码片段库 | Blog Code Snippets |
 
----
+## 🎯 目标 | Goals
 
-### 🛠 项目 | Projects
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin: 8px; width: 200px; text-align: center;">
-  <h4>[tandre-z.github.io](https://github.com/Tandre-Z/tandre-z.github.io)</h4>
-  <p>个人网站 | Personal Website</p>
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin: 8px; width: 200px; text-align: center;">
-  <h4>[JsonServer](https://github.com/Tandre-Z/JsonServer)</h4>
-  <p>FastAPI数据服务 | JSON Storage Service</p>
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin: 8px; width: 200px; text-align: center;">
-  <h4>[BlogSampleCode](https://github.com/Tandre-Z/BlogSampleCode)</h4>
-  <p>代码片段库 | Code Snippets</p>
-</div>
-
-</div>
-
-### 🎯 目标 | Goals
-
+- [ ] 活下去、学习更多 | Survive and learn more
 - [ ] 开源贡献 | Open Source
-- [ ] 完善网站 | Improve Website
+- [ ] 完善个人网站 | Improve my personal website
 - [ ] 学习新技术 | Learn New Tech
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tandre-Z&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tandre-Z&theme=radical)
-
-</div>
-
----
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tandre-Z&theme=radical)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tandre-Z&theme=radical)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tandre-Z&theme=radical)
 
 ⭐️ From [Tandre-Z](https://github.com/Tandre-Z)
